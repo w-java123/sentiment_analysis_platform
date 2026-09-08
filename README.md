@@ -1,6 +1,10 @@
 
 
-https://github.com/user-attachments/assets/c9325ab4-4643-440c-ad21-a7e4a111edb8
+
+
+https://github.com/user-attachments/assets/0fb89878-6f82-4977-aae9-2d8f6f558396
+
+
 
 # 舆情分析系统
 
