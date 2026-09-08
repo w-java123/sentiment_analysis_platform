@@ -130,10 +130,10 @@ uv venv project_venv --python 3.12
 
 # 激活虚拟环境
 project_venv\Scripts\activate  # Windows
-# 或 source project_venv/Scripts/activate  # Linux/Mac
+# 或 source project_venv/bin/activate  # Linux/Mac
 
 #安装依赖
-uv sync --active
+uv pip install -r requirements.txt
 ```
 
 #### 3. 初始化数据库表
