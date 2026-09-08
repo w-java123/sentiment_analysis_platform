@@ -133,7 +133,7 @@ project_venv\Scripts\activate  # Windows
 # 或 source project_venv/Scripts/activate  # Linux/Mac
 
 #安装依赖
-uv sync
+uv sync --active
 ```
 
 #### 3. 初始化数据库表
