@@ -129,7 +129,7 @@ project_venv\Scripts\activate  # Windows
 # 或 source project_venv/Scripts/activate  # Linux/Mac
 
 #安装依赖
-uv pip sync requirements.txt 
+uv sync
 ```
 
 #### 3. 初始化数据库表
