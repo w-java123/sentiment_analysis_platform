@@ -122,11 +122,11 @@ docker compose logs -f backend
 
 ```bash
 # 创建虚拟环境（Python 3.12）
-uv venv --python 3.12
+uv venv project_venv --python 3.12
 
 # 激活虚拟环境
-venv\Scripts\activate  # Windows
-# 或 source venv/bin/activate  # Linux/Mac
+project_venv\Scripts\activate  # Windows
+# 或 source project_venv/Scripts/activate  # Linux/Mac
 
 #安装依赖
 uv pip sync requirements.txt 
