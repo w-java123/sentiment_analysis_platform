@@ -217,7 +217,8 @@ python main.py --platform wb --type search --keywords "浏阳烟花厂爆炸" --
 
 ### 1. 项目架构图
 
-![alt text](C:\development\project\PythonProject\sentiment_analysis_platform\课件\image-1.png)
+<img width="1466" height="1323" alt="image-1" src="https://github.com/user-attachments/assets/ce4fd556-5f8b-41a6-8365-4c8f9919d971" />
+
 
 ### 2. 核心模块说明
 
